@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  👋 Welcome to my coding corner! I'm Ian,an Angular-focused developer from the Philippines<br>
+  👋 Welcome to my coding corner! I'm Ian, an Angular-focused developer from the Philippines<br>
   who believes proper TypeScript types are a love language. 💻❤️  
 </p>
 
