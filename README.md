@@ -23,12 +23,25 @@
   <img src="https://komarev.com/ghpvc/?username=ayangabryl&label=Profile%20Views&color=2d3748&style=flat">
 </p>
 
+<h3 align="center">
+  👋 Welcome to my coding corner! I'm Ian, an Angular-focused developer from the Philippines<br>
+  who believes proper TypeScript types are a love language. 💻❤️  
+</h3>
 
 <p align="center">
-  🔥 Turning complex problems into elegant web solutions<br>
-  Specializing in robust Angular applications and Next.js-powered experiences<br>
-  Obsessed with clean code and pixel-perfect implementations
+  When I'm not <strong>Angular-ing</strong>, you'll find me:<br>
 </p>
+
+<p align="center">
+  Explaining why `any` isn't a valid type • Battling RxJS demons 👹<br>
+  Adding "TODO: fix this" comments I'll never see again • Drinking coffee that's 90% sugar ☕
+</p>
+
+<p align="center">
+  <em>"Next.js? Oh right, that thing I use when Angular isn't watching"</em>
+</p>
+
+<br>
 
 <div align="center">
   <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
