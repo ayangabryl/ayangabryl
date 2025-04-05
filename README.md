@@ -1,7 +1,7 @@
 <h3 align="center">Hi! I'm Ian Gabriel Agujitas</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=FF6B35&center=true&vCenter=true&width=441&height=40&lines=A+Frontend+Developer;A+UI%2FUX+Designer;Professional+Coffee+Consumer;%22git+push+--force%22+Survivor;CSS+!important+Overuser+;Adobo+%3E+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=FF6B35&center=true&vCenter=true&width=441&height=40&lines=A+Frontend+Developer;A+UI%2FUX+Designer;Professional+Coffee+Consumer;%22git+push+--force%22+survivor;CSS+!important+overuser+;Adobo+%3E+React" alt="Typing SVG" />
   </a>
 </div>
 
