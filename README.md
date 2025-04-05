@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  👋 Welcome to my coding corner! I'm Ian, an Angular-focused developer from the Philippines<br>
+  👋 Welcome to my coding corner! I'm Ian,an Angular-focused developer from the Philippines<br>
   who believes proper TypeScript types are a love language. 💻❤️  
 </p>
 
@@ -35,8 +35,10 @@
 </p>
 
 <p align="center">
-  Explaining why `any` isn't a valid type • Battling RxJS demons 👹<br>
-  Adding "TODO: fix this" comments I'll never see again • Drinking coffee that's 90% sugar ☕
+  Explaining why `any` isn't a valid type<br>
+  Battling RxJS demons 👹<br>
+  Adding "TODO: fix this" comments I'll never see again<br>
+  Drinking coffee that's 90% sugar ☕
 </p>
 
 <p align="center">
