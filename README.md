@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayangabryl" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/ayangabryl" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-2d3748?style=flat&logo=opsgenie&logoColor=white">
   </a>
   <a href="https://ayangabryl.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Portfolio-2d3748?style=flat&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-Portfolio-2d3748?style=flat&logo=angular&logoColor=white">
   </a>
   <a href="https://instagram.com/ayangabryl" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-2d3748?style=flat&logo=instagram&logoColor=white">
