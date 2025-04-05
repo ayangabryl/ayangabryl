@@ -23,10 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=ayangabryl&label=Profile%20Views&color=2d3748&style=flat">
 </p>
 
-<h3 align="center">
+<p align="center">
   👋 Welcome to my coding corner! I'm Ian, an Angular-focused developer from the Philippines<br>
   who believes proper TypeScript types are a love language. 💻❤️  
-</h3>
+</p>
+
+<br>
 
 <p align="center">
   When I'm not <strong>Angular-ing</strong>, you'll find me:<br>
