@@ -1,11 +1,3 @@
-```
- ███   ████  ████ ███ ███ █████ █   █
-█   █ █     █      █   █  █      █ █ 
-█████  ███  █      █   █  ████    █  
-█   █     █ █      █   █  █       █  
-█   █ ████   ████ ███ ███ █       █  
-```
-
 <h3 align="center">Hi! I'm Ian Gabriel Agujitas</h3>
 <div align="center">
   <a href="https://git.io/typing-svg">
